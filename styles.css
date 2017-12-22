@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Ubuntu;
+}
+
+p {
+  font-family: Ubuntu;
+  font-size: 20px;
+}
+ul {
+  font-family: Ubuntu;
+}
